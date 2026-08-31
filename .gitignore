@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# POLAIRA build artifacts (ADR-0097) — the OpenAPI document the API tab reads and the
+# static bundle the Preview tab renders. Regenerated from source; deliberately not committed,
+# so they never show up as working-copy changes or as noise in a diff.
+.polaira/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Env
+.env
+.env.local
