@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>LoanIQ.Integration.DAL</RootNamespace>
+    <AssemblyName>LoanIQ.Integration.DAL</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LoanIQ.Integration.BLL\LoanIQ.Integration.BLL.csproj" />
+  </ItemGroup>
+</Project>

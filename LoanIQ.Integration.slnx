@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LoanIQ.Integration.DTO/LoanIQ.Integration.DTO.csproj" />
+    <Project Path="src/LoanIQ.Integration.BLL/LoanIQ.Integration.BLL.csproj" />
+    <Project Path="src/LoanIQ.Integration.DAL/LoanIQ.Integration.DAL.csproj" />
+    <Project Path="src/LoanIQ.Integration.Console/LoanIQ.Integration.Console.csproj" />
+    <Project Path="src/LoanIQ.Integration.Api/LoanIQ.Integration.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LoanIQ.Integration.BLL.Tests/LoanIQ.Integration.BLL.Tests.csproj" />
+  </Folder>
+</Solution>
